@@ -1,0 +1,71 @@
+body{background-image:url(g28.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    }
+
+nav{
+    font-family:fantasy;
+    font-family:Copperplate;
+    border-radius: 10px;
+    }
+    
+navbar-nav{
+    font-family:fantasy;
+    font-family:Copperplate;
+    border-radius: 10px;
+    }
+
+p{
+    padding-left: 2rem;
+    color: white;
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+h3{
+    padding: 2rem;
+    color: white;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.judul p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: cursive;
+}
+
+.trip p{
+    font-size: 45px;
+}
+
+.btn a {
+    text-decoration:none;
+    font-family:fantasy;
+    font-family:Copperplate;
+    font-weight: bold;
+    font-size: 15px;
+    background: #764F1A;
+    color: white; 
+    border-radius: 25px;
+    padding: 12px 20px;
+    margin-top: 15px;
+    font-size: 30px;
+}
+a:hover{
+    opacity:0.9;
+}
+
+img{
+    border-radius: 10%;
+    border: solid;
+    color: white;
+    transition-duration:0.75s;
+    transition-property:transform;
+ }
+ img:hover{
+    transform:scale(1.1)
+ }
+ 
+ .footer p{
+    font-size: 15px;
+}

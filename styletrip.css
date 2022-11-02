@@ -1,0 +1,82 @@
+body{background-image:url(fotobg.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+nav{
+    font-family:fantasy;
+    font-family:Copperplate;
+    border-radius: 10px;
+}
+
+navbar-nav{
+    font-family:fantasy;
+    font-family:Copperplate;
+    background: linear-gradient(#008FDB, #76C5F0, #DEE9EF);   
+    border-radius: 10px;
+}
+
+.judul p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: cursive;
+}
+
+.trip p{
+    font-size: 45px;
+}
+
+p{
+    padding-left: 2rem;
+    color: white;
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+h3{
+    padding: 2rem;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.tombol a{
+    text-decoration:none;
+    font-family:fantasy;
+    font-family:Copperplate;
+    font-weight: bold;
+    font-size: 15px;
+    background: #9f691d;
+    color: white; 
+    border-radius: 10px;
+    padding: 12px 20px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.tombol2 a{
+    text-decoration:none;
+    font-family:fantasy;
+    font-family:Copperplate;
+    font-weight: bold;
+    font-size: 15px;
+    background: #764F1A;
+    color: white; 
+    border-radius: 10px;
+    padding: 12px 20px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.footer p{
+    font-size: 15px;
+}
+
+.card-text p{
+    color: black;
+    font-size: 15px;
+}
+
+.deskripsi p{
+    text-align: justify;
+    margin-right: 1rem;
+}
